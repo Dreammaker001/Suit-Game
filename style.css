@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(179, 134, 0);
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav a:first-child{
+    color :rgb(128, 96, 0)
+}
+
+.logo img{
+    width: 50px;
+}
+
+.content .player1, .com{
+    /* width: 9rem; */
+}
+
+.content img{
+    width: 4rem;
+    margin: 2rem 0;
+}
+
+.content .img{
+    width: 100%;
+    border-radius: 10%;
+}
+
+.content .player1 img, .restart{
+    cursor: pointer;
+}
+
+.content .player1 img:hover{
+    animation: goyang 4s infinite;
+}
+
+@keyframes goyang{
+    /* 0% {transform: rotate(0deg);} */
+    50% {transform: rotate(25deg)}
+    75% {transform: rotate(-25deg)}
+    100% {transform: rotate(0deg);}
+}
+
+.content .kertas img{
+    width: 3.5rem;
+}
+
+.content .restart{
+    width: 5rem;
+}
+
+.content .restart:hover{
+    animation-name: putar;
+    animation-duration: 4s;
+}
+
+@keyframes putar{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(-360deg);}
+}
+
+.content .mx{
+    margin: 0 0;
+}
+
+.content h1{
+    font-size: 4rem;
+}
+
+#hasil{
+    width: 12rem;
+    /* transform: rotate(0deg); */
+    color: white;
+}
