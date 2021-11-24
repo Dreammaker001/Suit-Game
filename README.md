@@ -49,19 +49,13 @@
 ## About The Project
 
 ![Product Name Screen Shot][product-screenshot1]
-![Product Name Screen Shot][product-screenshot2]
-![Product Name Screen Shot][product-screenshot3]
-![Product Name Screen Shot][product-screenshot4]
-![Product Name Screen Shot][product-screenshot5]
-![Product Name Screen Shot][product-screenshot6]
-
 
 This is a traditional game landing page
 
 
 ## Built With
 
-* [Vue.js](https://vuejs.org/)
+* [Javascript](https://www.javascript.com/)
 * [Bootstrap](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -108,7 +102,6 @@ Dreammaker001 - https://www.instagram.com/dreammaker001/
 A list of resources I found useful and I would like to credit. I've included some of my favorites to get you started!
 
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -116,23 +109,18 @@ A list of resources I found useful and I would like to credit. I've included som
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Dreammaker001/Landing-Page-Traditional-Game?color=%2300ff37&style=for-the-badge
-[contributors-url]: https://github.com/Dreammaker001/Landing-Page-Traditional-Game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Dreammaker001/Landing-Page-Traditional-Game?style=for-the-badge
-[forks-url]: https://github.com/Dreammaker001/Landing-Page-Traditional-Game/network/members
-[stars-shield]: https://img.shields.io/github/stars/Dreammaker001/Landing-Page-Traditional-Game?style=for-the-badge
-[stars-url]: https://github.com/Dreammaker001/Landing-Page-Traditional-Game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Dreammaker001/Landing-Page-Traditional-Game?color=%23ffc800&style=for-the-badge
-[issues-url]: https://github.com/Dreammaker001/Landing-Page-Traditional-Game/issues
-[license-shield]: https://img.shields.io/github/license/Dreammaker001/Landing-Page-Traditional-Game?color=%2300ff1e&style=for-the-badge
-[license-url]: https://github.com/Dreammaker001/Landing-Page-Traditional-Game/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Dreammaker001/Suit-Game?color=%2300ff1e&logo=github&style=plastic
+[contributors-url]: https://github.com/Dreammaker001/Suit-Game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Dreammaker001/Suit-Game?color=%23fb00ff&logo=github&style=plastic
+[forks-url]: https://github.com/Dreammaker001/Suit-Game/network/members
+[stars-shield]: https://img.shields.io/github/stars/Dreammaker001/Suit-Game?color=%23fb00ff&logo=github&style=plastic
+[stars-url]: https://github.com/Dreammaker001/Suit-Game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Dreammaker001/Suit-Game?logo=github
+[issues-url]: https://github.com/Dreammaker001/Suit-Game/issues
+[license-shield]: https://img.shields.io/github/license/Dreammaker001/Suit-Game?style=plastic
+[license-url]: https://github.com/Dreammaker001/Suit-Game/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bastian-bangun-74ab64219/
 [instagram-shield]: https://img.shields.io/badge/Instagram-follow-green?style=for-the-badge&logo=instagram
 [instagram-url]: https://www.instagram.com/dreammaker001/
 [product-screenshot1]: assets/Screenshot1.png
-[product-screenshot2]: assets/Screenshot2.png
-[product-screenshot3]: assets/Screenshot3.png
-[product-screenshot4]: assets/Screenshot4.png
-[product-screenshot5]: assets/Screenshot5.png
-[product-screenshot6]: assets/Screenshot6.png
