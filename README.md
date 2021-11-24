@@ -119,8 +119,8 @@ A list of resources I found useful and I would like to credit. I've included som
 [issues-url]: https://github.com/Dreammaker001/Suit-Game/issues
 [license-shield]: https://img.shields.io/github/license/Dreammaker001/Suit-Game?style=plastic
 [license-url]: https://github.com/Dreammaker001/Suit-Game/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=#00a0dc
 [linkedin-url]: https://www.linkedin.com/in/bastian-bangun-74ab64219/
-[instagram-shield]: https://img.shields.io/badge/Instagram-follow-green?style=for-the-badge&logo=instagram
+[instagram-shield]: https://img.shields.io/badge/Instagram-follow-green?style=plastic&logo=instagram
 [instagram-url]: https://www.instagram.com/dreammaker001/
 [product-screenshot1]: assets/Screenshot1.png
